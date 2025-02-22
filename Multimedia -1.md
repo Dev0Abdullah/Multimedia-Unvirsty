@@ -99,6 +99,6 @@
 - 🎨 **XSL**: Styles XML (like CSS for XML).
 - 🔄 **SMIL**: Syncs multimedia elements & user interactions.
 
----
+--
 
 🎉 *That's a wrap! Now your Markdown file is ready to copy & upload to GitHub!* 🚀
