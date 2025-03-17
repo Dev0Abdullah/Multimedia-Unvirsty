@@ -101,4 +101,4 @@
 
 --
 
-🎉 *That's a wrap! Now your Markdown file is ready to copy & upload to GitHub!* 🚀
+🎉 *That's a wrap! Now your Markdown file is ready to copy & upload to GitHub!* 
